@@ -1,1 +1,2 @@
-My first readme
+# My first readme
+## Directories and files are demos
